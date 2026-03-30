@@ -23,7 +23,7 @@ Running `dmesg` should provide some feedback if your install will work, ideally 
 dmesg | grep hailo
 ```
 
-And then a reboot is needed to start finish the configuration
+And then a reboot is needed to finish this phase of the configuration
 ```
 sudo reboot
 ```
